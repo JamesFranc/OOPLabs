@@ -29,7 +29,7 @@
 <p><b>FILES USED:</b> index.idx</p>
  <br></br>
 <h5>SAMPLE INPUTS: (from index.idx)</h5>
-<p> <<<Binary Data>>></p>
+<p> Binary Data </p>
  <br></br>
 <h5>SAMPLE OUTPUTS:</h5>
 <p>Please enter a search key: 12345</p>
