@@ -1,0 +1,19 @@
+i 27 Mary had a little lamb
+i 15 Today is a good day
+i 35 Now is the time!
+i 9 This lab is easy and fun
+p
+d 35
+t
+i 37 Better Now.
+f
+p
+h
+p
+d 27
+d 15
+d 37
+d 9
+i 44 This should be it!
+t
+p
