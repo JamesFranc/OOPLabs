@@ -19,6 +19,7 @@
  Hash table has been written to index.idx
 <br></br>
 <br></br>
+<h2></h2>
 <h2>Lab8-2</h2>
 <h3>PROGRAM PURPOSE:</h3>
 <p> This program is used to implement to Hashtable class, and Node class, for use in an External Hashtable Structure.</p>
