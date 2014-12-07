@@ -1,4 +1,4 @@
-<h2>Object Oriented Programming Assignments</h2>
+<h2>Object Oriented Programming Projects</h2>
 <h4>Program Topics:</h4>
 <ol>Lab1: 2D Arrays and "Data Correction"</ol>
 <ol>Lab2: File Merging</ol>
